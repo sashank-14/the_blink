@@ -11,5 +11,5 @@ language processing algorithms.
 Provide step-by-step installation instructions. For example:
 
 1. Clone this repository: `git clone https://github.com/yourusername/the_blink.git`
-2. Navigate to the project directory: `cd yourproject`
+2. Navigate to the project directory: `cd the_blink`
 3. Install dependencies: `npm install`
